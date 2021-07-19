@@ -9,6 +9,6 @@ class GoodsDao
 
 	}
 	public void delete(){
-		System.out.println("삭제하였습니다.");
+			System.out.println("삭제하였습니다.");
 	}
 }
