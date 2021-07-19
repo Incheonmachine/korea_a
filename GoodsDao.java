@@ -1,10 +1,10 @@
 class GoodsDao 
 {
 	public void insertGoods(){
-		System.out.println("µî·ÏÇß½À´Ï´Ù.");
+		System.out.println("ë“±ë¡í–ˆìŠµë‹ˆë‹¤.");
 	}
 
 	public void updateGoods(){
-		System.out.println("¼öÁ¤Çß½À´Ï´Ù.");
+		System.out.println("ìˆ˜ì •í–ˆìŠµë‹ˆë‹¤.");
 	}
 }
